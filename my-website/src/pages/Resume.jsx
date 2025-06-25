@@ -21,8 +21,8 @@ function Resume() {
             data="/Karson_Resume9.pdf"
             type="application/pdf"
             width="100%"
-            height="900px"
-            style={{ minWidth: "300px" }}
+            height="100%"
+            style={{ minWidth: "300px", minHeight: "1200px"}}
           >
             <p>
               Your browser does not support PDFs.{" "}
